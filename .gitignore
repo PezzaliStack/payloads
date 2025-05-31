@@ -1,0 +1,44 @@
+# PayloadStudio & Hak5 tools
+*.bin
+*.exe
+*.dll
+*.pyc
+*.class
+__pycache__/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Log, backup, temporary files
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Git
+.gitignore
+*.orig
+
+# Archivi
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Output compilazione
+/build/
+/dist/
+/node_modules/
+/env/
+.env
+.env.*
